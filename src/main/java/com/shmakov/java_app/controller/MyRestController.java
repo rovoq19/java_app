@@ -20,7 +20,7 @@ import com.shmakov.java_app.persistence.model.UserAccount;
  * Класс-контроллер приложения.
  * Отвечает за обработку запросов по адресу http://localhost:8080/my
  *
- * @author rybakov
+ *
  *
  */
 @RestController
